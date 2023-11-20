@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning React and Next.js
-![Codewars](https://github.r2v.ch/codewars?user=zlabban&stroke=red)
+
+
+
+
+[![Profile badge](https://www.codewars.com/users/zlabban/badges/large)](https://www.codewars.com/users/zlabban)
 
 <!--
 **zlabban/zlabban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
