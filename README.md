@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Front End Developer based in the UK. I have a background as an accountant and am passionate about problem-solving. During my short time as a developer, I have realised just how creative I can be having had a dull career prior.
+A Front End Developer based in the UK. I have a background as an accountant and am passionate about problem-solving. During my short time as a developer, I have realised just how creative I can be having not had the opportunity to do so prior
 
 
 ## 🌐 Socials:
